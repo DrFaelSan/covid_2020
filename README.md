@@ -12,8 +12,7 @@
 * :man: Rafael Vieira Paulino de Lima _*RA*: 2218103128_
 * :man: João Gabriel Mendes Gonçalves  _*RA*: 2218111987_
 * :girl: Gabriela Silva dos Anjos  _*RA*: 2218109019_
-* :man: Marcelo Santos de Jesus  _*RA*: 920202061_
-* :man: Everton de Albuquerque Costa _*RA*: 920202060_
+* :man: Emanoel M. do C. dos Santos  _*RA*: 2218202217_
 * :man: Clito de Santana Lopes _*RA*: 418201386_
  
 ## Professor
